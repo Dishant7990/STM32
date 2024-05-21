@@ -1,0 +1,97 @@
+2024-05-21 09:54:51,975 [INFO] UtilMem:75 - End SaveConfig() Used Memory: 738086112 Bytes (1073741824)
+2024-05-21 09:54:52,612 [INFO] UtilMem:75 - End SaveConfig() Used Memory: 823020624 Bytes (1073741824)
+2024-05-21 09:54:52,996 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: TIM1_8L4
+2024-05-21 09:54:52,996 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: SYS
+2024-05-21 09:54:52,996 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: RCC
+2024-05-21 09:54:52,996 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: NVIC
+2024-05-21 09:54:52,996 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: GPIO
+2024-05-21 09:54:52,998 [INFO] CodeGenerator:807 - code generatio: config db path: D:\STM32\STM32CubeIDE_1.15.0\STM32CubeIDE\plugins\com.st.stm32cube.common.mx_6.11.0.202403141607\\db\
+2024-05-21 09:54:53,138 [INFO] CodeEngine:255 - oldGeneratedFile, D:\STM32\WorkSpace\9.3_TIM_SYSTICK\MXTmpFiles\license.tmp_save
+2024-05-21 09:54:53,324 [INFO] CodeEngine:279 - Generated code: D:\STM32\WorkSpace\9.3_TIM_SYSTICK\MXTmpFiles\license.tmp
+2024-05-21 09:54:53,349 [INFO] CodeEngine:255 - oldGeneratedFile, D:\STM32\WorkSpace\9.3_TIM_SYSTICK\MXTmpFiles\gpio.tmp_save
+2024-05-21 09:54:53,492 [INFO] CodeEngine:279 - Generated code: D:\STM32\WorkSpace\9.3_TIM_SYSTICK\MXTmpFiles\gpio.tmp
+2024-05-21 09:54:53,582 [INFO] CodeEngine:255 - oldGeneratedFile, D:\STM32\WorkSpace\9.3_TIM_SYSTICK\Core\Src\stm32l4xx_it.c_save
+2024-05-21 09:54:53,754 [INFO] CodeEngine:279 - Generated code: D:\STM32\WorkSpace\9.3_TIM_SYSTICK\Core\Src\stm32l4xx_it.c
+2024-05-21 09:54:53,758 [INFO] CodeEngine:255 - oldGeneratedFile, D:\STM32\WorkSpace\9.3_TIM_SYSTICK\Core\Inc\stm32l4xx_it.h_save
+2024-05-21 09:54:53,850 [INFO] CodeEngine:279 - Generated code: D:\STM32\WorkSpace\9.3_TIM_SYSTICK\Core\Inc\stm32l4xx_it.h
+2024-05-21 09:54:53,869 [INFO] CodeEngine:255 - oldGeneratedFile, D:\STM32\WorkSpace\9.3_TIM_SYSTICK\Core\Src\stm32l4xx_hal_msp.c_save
+2024-05-21 09:54:54,019 [INFO] CodeEngine:279 - Generated code: D:\STM32\WorkSpace\9.3_TIM_SYSTICK\Core\Src\stm32l4xx_hal_msp.c
+2024-05-21 09:54:54,023 [INFO] CodeEngine:255 - oldGeneratedFile, D:\STM32\WorkSpace\9.3_TIM_SYSTICK\MXTmpFiles\system.tmp_save
+2024-05-21 09:54:54,100 [INFO] CodeEngine:279 - Generated code: D:\STM32\WorkSpace\9.3_TIM_SYSTICK\MXTmpFiles\system.tmp
+2024-05-21 09:54:54,117 [INFO] CodeEngine:311 - oldGeneratedFile, D:\STM32\WorkSpace\9.3_TIM_SYSTICK\Core\Inc\stm32l4xx_hal_conf.h_save
+2024-05-21 09:54:54,241 [INFO] CodeEngine:335 - Generated code: D:\STM32\WorkSpace\9.3_TIM_SYSTICK\Core\Inc\stm32l4xx_hal_conf.h
+2024-05-21 09:54:54,275 [WARN] IPConfigManager:3513 - IP not found : TIM
+2024-05-21 09:54:54,275 [WARN] CodeGenerator:3951 - IP not found : null
+2024-05-21 09:54:54,293 [INFO] CodeEngine:255 - oldGeneratedFile, D:\STM32\WorkSpace\9.3_TIM_SYSTICK\Core\Inc\main.h_save
+2024-05-21 09:54:54,429 [INFO] CodeEngine:279 - Generated code: D:\STM32\WorkSpace\9.3_TIM_SYSTICK\Core\Inc\main.h
+2024-05-21 09:54:54,444 [INFO] CodeEngine:255 - oldGeneratedFile, D:\STM32\WorkSpace\9.3_TIM_SYSTICK\Core\Src\main.c_save
+2024-05-21 09:54:54,582 [INFO] CodeEngine:279 - Generated code: D:\STM32\WorkSpace\9.3_TIM_SYSTICK\Core\Src\main.c
+2024-05-21 09:54:55,058 [INFO] ProjectBuilder:3163 - Time for Copy HAL[1] : 264mS.
+2024-05-21 09:54:55,062 [INFO] ProjectBuilder:4736 - Project Generator version: 4.3.0-B58
+2024-05-21 09:54:55,193 [INFO] ConfigFileManager:1503 - The Die is : DIE415
+2024-05-21 09:54:56,264 [INFO] ProjectBuilder:5002 - Time for Generating toolchain IDE Files: 1202mS.
+2024-05-21 09:54:56,265 [INFO] ProjectBuilder:3034 - Time for Copy CMSIS : 1mS.
+2024-05-21 09:54:56,268 [INFO] ProjectBuilder:3034 - Time for Copy CMSIS : 0mS.
+2024-05-21 09:55:34,551 [ERROR] ConfigurationRetriever:142 - IOException on connection: Read timed out
+2024-05-21 10:05:42,673 [INFO] UtilMem:75 - End SaveConfig() Used Memory: 905993560 Bytes (1073741824)
+2024-05-21 10:05:43,432 [INFO] UtilMem:75 - End SaveConfig() Used Memory: 820742384 Bytes (1073741824)
+2024-05-21 10:05:43,668 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: SYS
+2024-05-21 10:05:43,668 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: RCC
+2024-05-21 10:05:43,668 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: NVIC
+2024-05-21 10:05:43,668 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: GPIO
+2024-05-21 10:05:43,669 [INFO] CodeGenerator:807 - code generatio: config db path: D:\STM32\STM32CubeIDE_1.15.0\STM32CubeIDE\plugins\com.st.stm32cube.common.mx_6.11.0.202403141607\\db\
+2024-05-21 10:05:43,732 [INFO] CodeEngine:255 - oldGeneratedFile, D:\STM32\WorkSpace\9.3_TIM_SYSTICK\MXTmpFiles\license.tmp_save
+2024-05-21 10:05:43,824 [INFO] CodeEngine:279 - Generated code: D:\STM32\WorkSpace\9.3_TIM_SYSTICK\MXTmpFiles\license.tmp
+2024-05-21 10:05:43,835 [INFO] CodeEngine:255 - oldGeneratedFile, D:\STM32\WorkSpace\9.3_TIM_SYSTICK\MXTmpFiles\gpio.tmp_save
+2024-05-21 10:05:43,952 [INFO] CodeEngine:279 - Generated code: D:\STM32\WorkSpace\9.3_TIM_SYSTICK\MXTmpFiles\gpio.tmp
+2024-05-21 10:05:43,977 [INFO] CodeEngine:255 - oldGeneratedFile, D:\STM32\WorkSpace\9.3_TIM_SYSTICK\Core\Src\stm32l4xx_it.c_save
+2024-05-21 10:05:44,143 [INFO] CodeEngine:279 - Generated code: D:\STM32\WorkSpace\9.3_TIM_SYSTICK\Core\Src\stm32l4xx_it.c
+2024-05-21 10:05:44,152 [INFO] CodeEngine:255 - oldGeneratedFile, D:\STM32\WorkSpace\9.3_TIM_SYSTICK\Core\Inc\stm32l4xx_it.h_save
+2024-05-21 10:05:44,212 [INFO] CodeEngine:279 - Generated code: D:\STM32\WorkSpace\9.3_TIM_SYSTICK\Core\Inc\stm32l4xx_it.h
+2024-05-21 10:05:44,228 [INFO] CodeEngine:255 - oldGeneratedFile, D:\STM32\WorkSpace\9.3_TIM_SYSTICK\Core\Src\stm32l4xx_hal_msp.c_save
+2024-05-21 10:05:44,342 [INFO] CodeEngine:279 - Generated code: D:\STM32\WorkSpace\9.3_TIM_SYSTICK\Core\Src\stm32l4xx_hal_msp.c
+2024-05-21 10:05:44,345 [INFO] CodeEngine:255 - oldGeneratedFile, D:\STM32\WorkSpace\9.3_TIM_SYSTICK\MXTmpFiles\system.tmp_save
+2024-05-21 10:05:44,410 [INFO] CodeEngine:279 - Generated code: D:\STM32\WorkSpace\9.3_TIM_SYSTICK\MXTmpFiles\system.tmp
+2024-05-21 10:05:44,425 [INFO] CodeEngine:311 - oldGeneratedFile, D:\STM32\WorkSpace\9.3_TIM_SYSTICK\Core\Inc\stm32l4xx_hal_conf.h_save
+2024-05-21 10:05:44,522 [INFO] CodeEngine:335 - Generated code: D:\STM32\WorkSpace\9.3_TIM_SYSTICK\Core\Inc\stm32l4xx_hal_conf.h
+2024-05-21 10:05:44,563 [INFO] CodeEngine:255 - oldGeneratedFile, D:\STM32\WorkSpace\9.3_TIM_SYSTICK\Core\Inc\main.h_save
+2024-05-21 10:05:44,672 [INFO] CodeEngine:279 - Generated code: D:\STM32\WorkSpace\9.3_TIM_SYSTICK\Core\Inc\main.h
+2024-05-21 10:05:44,684 [INFO] CodeEngine:255 - oldGeneratedFile, D:\STM32\WorkSpace\9.3_TIM_SYSTICK\Core\Src\main.c_save
+2024-05-21 10:05:44,795 [INFO] CodeEngine:279 - Generated code: D:\STM32\WorkSpace\9.3_TIM_SYSTICK\Core\Src\main.c
+2024-05-21 10:05:45,187 [INFO] ProjectBuilder:3163 - Time for Copy HAL[1] : 194mS.
+2024-05-21 10:05:45,191 [INFO] ProjectBuilder:4736 - Project Generator version: 4.3.0-B58
+2024-05-21 10:05:45,314 [INFO] ConfigFileManager:1503 - The Die is : DIE415
+2024-05-21 10:05:46,087 [INFO] ProjectBuilder:5002 - Time for Generating toolchain IDE Files: 895mS.
+2024-05-21 10:05:46,088 [INFO] ProjectBuilder:3034 - Time for Copy CMSIS : 0mS.
+2024-05-21 10:05:46,090 [INFO] ProjectBuilder:3034 - Time for Copy CMSIS : 0mS.
+2024-05-21 10:06:32,085 [INFO] UtilMem:75 - End SaveConfig() Used Memory: 808597752 Bytes (1073741824)
+2024-05-21 10:06:32,764 [INFO] UtilMem:75 - End SaveConfig() Used Memory: 880284768 Bytes (1073741824)
+2024-05-21 10:06:33,151 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: SYS
+2024-05-21 10:06:33,151 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: RCC
+2024-05-21 10:06:33,151 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: NVIC
+2024-05-21 10:06:33,152 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: GPIO
+2024-05-21 10:06:33,153 [INFO] CodeGenerator:807 - code generatio: config db path: D:\STM32\STM32CubeIDE_1.15.0\STM32CubeIDE\plugins\com.st.stm32cube.common.mx_6.11.0.202403141607\\db\
+2024-05-21 10:06:33,285 [INFO] CodeEngine:255 - oldGeneratedFile, D:\STM32\WorkSpace\9.3_TIM_SYSTICK\MXTmpFiles\license.tmp_save
+2024-05-21 10:06:33,441 [INFO] CodeEngine:279 - Generated code: D:\STM32\WorkSpace\9.3_TIM_SYSTICK\MXTmpFiles\license.tmp
+2024-05-21 10:06:33,461 [INFO] CodeEngine:255 - oldGeneratedFile, D:\STM32\WorkSpace\9.3_TIM_SYSTICK\MXTmpFiles\gpio.tmp_save
+2024-05-21 10:06:33,616 [INFO] CodeEngine:279 - Generated code: D:\STM32\WorkSpace\9.3_TIM_SYSTICK\MXTmpFiles\gpio.tmp
+2024-05-21 10:06:33,662 [INFO] CodeEngine:255 - oldGeneratedFile, D:\STM32\WorkSpace\9.3_TIM_SYSTICK\Core\Src\stm32l4xx_it.c_save
+2024-05-21 10:06:33,787 [INFO] CodeEngine:279 - Generated code: D:\STM32\WorkSpace\9.3_TIM_SYSTICK\Core\Src\stm32l4xx_it.c
+2024-05-21 10:06:33,800 [INFO] CodeEngine:255 - oldGeneratedFile, D:\STM32\WorkSpace\9.3_TIM_SYSTICK\Core\Inc\stm32l4xx_it.h_save
+2024-05-21 10:06:33,874 [INFO] CodeEngine:279 - Generated code: D:\STM32\WorkSpace\9.3_TIM_SYSTICK\Core\Inc\stm32l4xx_it.h
+2024-05-21 10:06:33,892 [INFO] CodeEngine:255 - oldGeneratedFile, D:\STM32\WorkSpace\9.3_TIM_SYSTICK\Core\Src\stm32l4xx_hal_msp.c_save
+2024-05-21 10:06:34,027 [INFO] CodeEngine:279 - Generated code: D:\STM32\WorkSpace\9.3_TIM_SYSTICK\Core\Src\stm32l4xx_hal_msp.c
+2024-05-21 10:06:34,031 [INFO] CodeEngine:255 - oldGeneratedFile, D:\STM32\WorkSpace\9.3_TIM_SYSTICK\MXTmpFiles\system.tmp_save
+2024-05-21 10:06:34,122 [INFO] CodeEngine:279 - Generated code: D:\STM32\WorkSpace\9.3_TIM_SYSTICK\MXTmpFiles\system.tmp
+2024-05-21 10:06:34,151 [INFO] CodeEngine:311 - oldGeneratedFile, D:\STM32\WorkSpace\9.3_TIM_SYSTICK\Core\Inc\stm32l4xx_hal_conf.h_save
+2024-05-21 10:06:34,282 [INFO] CodeEngine:335 - Generated code: D:\STM32\WorkSpace\9.3_TIM_SYSTICK\Core\Inc\stm32l4xx_hal_conf.h
+2024-05-21 10:06:34,323 [INFO] CodeEngine:255 - oldGeneratedFile, D:\STM32\WorkSpace\9.3_TIM_SYSTICK\Core\Inc\main.h_save
+2024-05-21 10:06:34,411 [INFO] CodeEngine:279 - Generated code: D:\STM32\WorkSpace\9.3_TIM_SYSTICK\Core\Inc\main.h
+2024-05-21 10:06:34,424 [INFO] CodeEngine:255 - oldGeneratedFile, D:\STM32\WorkSpace\9.3_TIM_SYSTICK\Core\Src\main.c_save
+2024-05-21 10:06:34,554 [INFO] CodeEngine:279 - Generated code: D:\STM32\WorkSpace\9.3_TIM_SYSTICK\Core\Src\main.c
+2024-05-21 10:06:34,926 [INFO] ProjectBuilder:3163 - Time for Copy HAL[1] : 146mS.
+2024-05-21 10:06:34,929 [INFO] ProjectBuilder:4736 - Project Generator version: 4.3.0-B58
+2024-05-21 10:06:35,014 [INFO] ConfigFileManager:1503 - The Die is : DIE415
+2024-05-21 10:06:36,115 [INFO] ProjectBuilder:5002 - Time for Generating toolchain IDE Files: 1186mS.
+2024-05-21 10:06:36,116 [INFO] ProjectBuilder:3034 - Time for Copy CMSIS : 1mS.
+2024-05-21 10:06:36,118 [INFO] ProjectBuilder:3034 - Time for Copy CMSIS : 1mS.
