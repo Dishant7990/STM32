@@ -1,0 +1,10 @@
+16:50:16 **** Incremental Build of configuration Debug for project 19_USB_VIRTUAL_COMPORT ****
+make -j12 all 
+arm-none-eabi-size  19_USB_VIRTUAL_COMPORT.elf 
+   text	   data	    bss	    dec	    hex	filename
+  32148	    392	   6208	  38748	   975c	19_USB_VIRTUAL_COMPORT.elf
+Finished building: default.size.stdout
+ 
+
+16:50:18 Build Finished. 0 errors, 0 warnings. (took 1s.40ms)
+

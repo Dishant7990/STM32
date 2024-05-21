@@ -1,0 +1,31 @@
+10:36:38 **** Incremental Build of configuration Debug for project temp4 ****
+make -j12 all 
+arm-none-eabi-gcc "../Core/Src/main.c" -mcpu=cortex-m4 -std=gnu11 -g3 -DDEBUG -DUSE_HAL_DRIVER -DSTM32L496xx -c -I../Core/Inc -I"D:/STM32/WorkSpace/temp4/Drivers/BSP/COMPONENT" -I../Drivers/STM32L4xx_HAL_Driver/Inc -I../Drivers/STM32L4xx_HAL_Driver/Inc/Legacy -I../Drivers/CMSIS/Device/ST/STM32L4xx/Include -I../Drivers/CMSIS/Include -O0 -ffunction-sections -fdata-sections -Wall -fstack-usage -fcyclomatic-complexity -MMD -MP -MF"Core/Src/main.d" -MT"Core/Src/main.o" --specs=nano.specs -mfpu=fpv4-sp-d16 -mfloat-abi=hard -mthumb -o "Core/Src/main.o"
+../Core/Src/main.c: In function 'writedata':
+../Core/Src/main.c:202:32: warning: 'return' with a value, in function returning void [-Wreturn-type]
+  202 |                         return -1;
+      |                                ^
+../Core/Src/main.c:81:6: note: declared here
+   81 | void writedata(Student_t student[], uint8_t *count) {
+      |      ^~~~~~~~~
+../Core/Src/main.c: In function 'readData':
+../Core/Src/main.c:222:40: warning: 'return' with a value, in function returning void [-Wreturn-type]
+  222 |                                 return -1;
+      |                                        ^
+../Core/Src/main.c:214:6: note: declared here
+  214 | void readData(uint8_t *count) {
+      |      ^~~~~~~~
+arm-none-eabi-gcc -o "temp4.elf" @"objects.list"   -mcpu=cortex-m4 -T"D:\STM32\WorkSpace\temp4\STM32L496ZGTXP_FLASH.ld" --specs=nosys.specs -Wl,-Map="temp4.map" -Wl,--gc-sections -static --specs=nano.specs -mfpu=fpv4-sp-d16 -mfloat-abi=hard -mthumb -Wl,--start-group -lc -lm -Wl,--end-group
+Finished building target: temp4.elf
+ 
+arm-none-eabi-size  temp4.elf 
+arm-none-eabi-objdump -h -S temp4.elf  > "temp4.list"
+   text	   data	    bss	    dec	    hex	filename
+  26268	    104	   3528	  29900	   74cc	temp4.elf
+Finished building: default.size.stdout
+ 
+Finished building: temp4.list
+ 
+
+10:36:39 Build Finished. 0 errors, 2 warnings. (took 1s.691ms)
+

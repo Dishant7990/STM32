@@ -1,0 +1,5 @@
+../Drivers/BSP/Flash/flash.c:36:10:Flash_Init	16	static
+../Drivers/BSP/Flash/flash.c:55:10:Flash_DeInit	16	static
+../Drivers/BSP/Flash/flash.c:73:10:Flash_Erase	24	static
+../Drivers/BSP/Flash/flash.c:121:10:Flash_Write	32	static
+../Drivers/BSP/Flash/flash.c:143:10:Flash_Read	32	static

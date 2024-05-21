@@ -1,0 +1,12 @@
+../Drivers/BSP/COMPONENT/SHT21/sht2x_for_stm32_hal.c:15:6:SHT2x_Init	1
+../Drivers/BSP/COMPONENT/SHT21/sht2x_for_stm32_hal.c:22:6:SHT2x_SoftReset	1
+../Drivers/BSP/COMPONENT/SHT21/sht2x_for_stm32_hal.c:31:9:SHT2x_ReadUserReg	1
+../Drivers/BSP/COMPONENT/SHT21/sht2x_for_stm32_hal.c:44:10:SHT2x_GetRaw	1
+../Drivers/BSP/COMPONENT/SHT21/sht2x_for_stm32_hal.c:56:7:SHT2x_GetTemperature	2
+../Drivers/BSP/COMPONENT/SHT21/sht2x_for_stm32_hal.c:66:7:SHT2x_GetRelativeHumidity	2
+../Drivers/BSP/COMPONENT/SHT21/sht2x_for_stm32_hal.c:77:6:SHT2x_SetResolution	1
+../Drivers/BSP/COMPONENT/SHT21/sht2x_for_stm32_hal.c:89:7:SHT2x_CelsiusToFahrenheit	1
+../Drivers/BSP/COMPONENT/SHT21/sht2x_for_stm32_hal.c:98:7:SHT2x_CelsiusToKelvin	1
+../Drivers/BSP/COMPONENT/SHT21/sht2x_for_stm32_hal.c:108:9:SHT2x_GetInteger	1
+../Drivers/BSP/COMPONENT/SHT21/sht2x_for_stm32_hal.c:118:10:SHT2x_GetDecimal	1
+../Drivers/BSP/COMPONENT/SHT21/sht2x_for_stm32_hal.c:129:10:SHT2x_Ipow	2

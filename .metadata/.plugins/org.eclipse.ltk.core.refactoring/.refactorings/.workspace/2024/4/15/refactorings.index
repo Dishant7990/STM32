@@ -1,0 +1,7 @@
+1712750313466	Rename resource '6_I2C'
+1712750943622	Rename resource '6_I2C_BME280'
+1712816253461	Delete resource '6.1_I2C_BME/Drivers/BSP/COMPONENT/bme280/i2c.h'
+1712817338060	Delete resource '6.1_I2C_BME/Drivers/BSP/COMPONENT/bme280/gpio.h'
+1712829391652	Delete resource '6.1_I2C_BME280'
+1712915869639	Rename resource '6.1_I2C_BME'
+1712922688597	Delete resource '6.2_I2C_BME680'

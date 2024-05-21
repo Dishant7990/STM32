@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<section name="ExternalProjectImportWizard">
+		<item key="WizardProjectsImportPage.STORE_NESTED_PROJECTS" value="true"/>
+	</section>
+	<section name="SmartImportWizard">
+		<item key="SmartImportRootWizardPage.STORE_HIDE_ALREADY_OPEN" value="false"/>
+		<item key="SmartImportRootWizardPage.STORE_CLOSE_IMPORTED" value="false"/>
+		<item key="SmartImportRootWizardPage.STORE_NESTED_PROJECTS" value="true"/>
+		<item key="SmartImportRootWizardPage.STORE_CONFIGURE_NATURES" value="true"/>
+		<list key="org.eclipse.ui.internal.wizards.datatransfer.SmartImportRootWizardPage.knownSources">
+			<item value="D:\STM32\WorkSpace\USB_MSC"/>
+			<item value="E:\USB\19_USB_VIRTUAL_COMPORT"/>
+			<item value="D:\temp_code\QSPI"/>
+			<item value="D:\STM32\WorkSpace\1_LED_Blink"/>
+			<item value="D:\temp3"/>
+			<item value="D:\STM32\WorkSpace\temp3"/>
+			<item value="E:\New folder\Downloads\STM32-UART-Circular-ring-buffer--main"/>
+			<item value="E:\New folder\Downloads\QSPI_flash\QSPI\QSPI_Flash_memory"/>
+			<item value="D:\STM32\WorkSpace\QSPI_Flash_memory"/>
+			<item value="E:\New folder\Downloads\QSPI_flash"/>
+			<item value="D:\STM32\WorkSpace\3_Rising_edge_interrupt"/>
+		</list>
+	</section>
+	<section name="ChooseWorkspaceDialogSettings">
+		<item key="DIALOG_X_ORIGIN" value="596"/>
+		<item key="DIALOG_Y_ORIGIN" value="329"/>
+	</section>
+	<section name="WORKBENCH_SETTINGS">
+		<list key="ENABLED_TRANSFERS">
+		</list>
+	</section>
+</section>

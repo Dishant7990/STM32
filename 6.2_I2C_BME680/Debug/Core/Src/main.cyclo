@@ -1,0 +1,9 @@
+../Core/Src/main.c:87:5:main	3
+../Core/Src/main.c:212:6:SystemClock_Config	4
+../Core/Src/main.c:262:13:MX_I2C1_Init	4
+../Core/Src/main.c:310:13:MX_USART2_UART_Init	2
+../Core/Src/main.c:345:13:MX_GPIO_Init	1
+../Core/Src/main.c:360:6:I2C_Scan	3
+../Core/Src/main.c:379:6:user_delay_ms	1
+../Core/Src/main.c:388:9:Who_am_i	3
+../Core/Src/main.c:422:6:Error_Handler	1

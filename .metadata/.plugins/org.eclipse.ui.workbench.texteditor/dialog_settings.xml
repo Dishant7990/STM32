@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<section name="org.eclipse.ui.texteditor.FindReplaceDialog">
+		<item key="wrap" value="true"/>
+		<item key="casesensitive" value="false"/>
+		<item key="wholeword" value="false"/>
+		<item key="incremental" value="false"/>
+		<item key="isRegEx" value="false"/>
+		<item key="selection" value="HAL_TIM_PeriodElapsedCallback"/>
+		<list key="findhistory">
+			<item value="HAL_TIM_PeriodElapsedCallback"/>
+			<item value="hadc3"/>
+			<item value="hadc1"/>
+			<item value="adc_valid"/>
+			<item value="my_info"/>
+			<item value="DATASET"/>
+			<item value="my_data"/>
+			<item value="index"/>
+			<item value="Student"/>
+			<item value="rx_buffer_head2"/>
+			<item value="rx_buffer_tail2"/>
+			<item value="rx_buffer_tail1"/>
+			<item value="rx_buffer_head1"/>
+			<item value="huart2"/>
+			<item value="Rx_data"/>
+		</list>
+		<list key="replacehistory">
+			<item value="hadc1"/>
+			<item value="hadc3"/>
+			<item value="flag"/>
+			<item value="DATASET"/>
+			<item value="my_info"/>
+			<item value="Student_t"/>
+			<item value="idx"/>
+			<item value="Student"/>
+			<item value="ring_buff_2-&gt;head"/>
+			<item value="ring_buff_2-&gt;tail"/>
+			<item value="ring_buff_1-&gt;tail"/>
+			<item value="ring_buff_1-&gt;head"/>
+			<item value="hlpuart1"/>
+			<item value="my_data"/>
+			<item value="hqspi"/>
+		</list>
+	</section>
+	<section name="org.eclipse.ui.texteditor.FindReplaceDialog_dialogBounds">
+		<item key="DIALOG_X_ORIGIN" value="1295"/>
+		<item key="DIALOG_Y_ORIGIN" value="559"/>
+		<item key="DIALOG_WIDTH" value="414"/>
+		<item key="DIALOG_HEIGHT" value="454"/>
+		<item key="DIALOG_FONT_NAME" value="1|Segoe UI|9.0|0|WINDOWS|1|-15|0|0|0|400|0|0|0|1|0|0|0|0|Segoe UI"/>
+	</section>
+</section>

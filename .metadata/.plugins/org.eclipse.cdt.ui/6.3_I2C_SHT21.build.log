@@ -1,0 +1,16 @@
+14:45:37 **** Incremental Build of configuration Debug for project 6.3_I2C_SHT21 ****
+make -j12 all 
+arm-none-eabi-gcc -o "6.3_I2C_SHT21.elf" @"objects.list"   -mcpu=cortex-m4 -T"D:\STM32\WorkSpace\6.3_I2C_SHT21\STM32L476RGTX_FLASH.ld" --specs=nosys.specs -Wl,-Map="6.3_I2C_SHT21.map" -Wl,--gc-sections -static --specs=nano.specs -mfpu=fpv4-sp-d16 -mfloat-abi=hard -mthumb -u _printf_float -Wl,--start-group -lc -lm -Wl,--end-group
+Finished building target: 6.3_I2C_SHT21.elf
+ 
+arm-none-eabi-size  6.3_I2C_SHT21.elf 
+arm-none-eabi-objdump -h -S 6.3_I2C_SHT21.elf  > "6.3_I2C_SHT21.list"
+   text	   data	    bss	    dec	    hex	filename
+  32168	    468	   2132	  34768	   87d0	6.3_I2C_SHT21.elf
+Finished building: default.size.stdout
+ 
+Finished building: 6.3_I2C_SHT21.list
+ 
+
+14:45:37 Build Finished. 0 errors, 0 warnings. (took 776ms)
+

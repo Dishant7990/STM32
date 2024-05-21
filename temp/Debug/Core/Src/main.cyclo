@@ -1,0 +1,6 @@
+../Core/Src/main.c:67:5:main	1
+../Core/Src/main.c:118:6:SystemClock_Config	4
+../Core/Src/main.c:168:13:MX_ADC1_Init	4
+../Core/Src/main.c:235:13:MX_GPIO_Init	1
+../Core/Src/main.c:248:6:HAL_ADC_ConvCpltCallback	1
+../Core/Src/main.c:267:6:Error_Handler	1

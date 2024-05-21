@@ -1,0 +1,17 @@
+11:31:30 **** Incremental Build of configuration Debug for project Temp_uart_project ****
+make -j12 all 
+arm-none-eabi-gcc "../Core/Src/main.c" -mcpu=cortex-m4 -std=gnu11 -g3 -DDEBUG -DUSE_HAL_DRIVER -DSTM32L496xx -c -I../Core/Inc -I../Drivers/STM32L4xx_HAL_Driver/Inc -I../Drivers/STM32L4xx_HAL_Driver/Inc/Legacy -I../Drivers/CMSIS/Device/ST/STM32L4xx/Include -I../Drivers/CMSIS/Include -O0 -ffunction-sections -fdata-sections -Wall -fstack-usage -fcyclomatic-complexity -MMD -MP -MF"Core/Src/main.d" -MT"Core/Src/main.o" --specs=nano.specs -mfpu=fpv4-sp-d16 -mfloat-abi=hard -mthumb -o "Core/Src/main.o"
+arm-none-eabi-gcc -o "Temp_uart_project.elf" @"objects.list"   -mcpu=cortex-m4 -T"D:\STM32\WorkSpace\Temp_uart_project\STM32L496ZGTXP_FLASH.ld" --specs=nosys.specs -Wl,-Map="Temp_uart_project.map" -Wl,--gc-sections -static --specs=nano.specs -mfpu=fpv4-sp-d16 -mfloat-abi=hard -mthumb -Wl,--start-group -lc -lm -Wl,--end-group
+Finished building target: Temp_uart_project.elf
+ 
+arm-none-eabi-size  Temp_uart_project.elf 
+arm-none-eabi-objdump -h -S Temp_uart_project.elf  > "Temp_uart_project.list"
+   text	   data	    bss	    dec	    hex	filename
+  14716	     16	   1704	  16436	   4034	Temp_uart_project.elf
+Finished building: default.size.stdout
+ 
+Finished building: Temp_uart_project.list
+ 
+
+11:31:31 Build Finished. 0 errors, 0 warnings. (took 1s.47ms)
+

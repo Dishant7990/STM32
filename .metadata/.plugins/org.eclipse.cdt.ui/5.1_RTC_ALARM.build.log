@@ -1,0 +1,10 @@
+16:58:38 **** Incremental Build of configuration Debug for project 5.1_RTC_ALARM ****
+make -j12 all 
+arm-none-eabi-size  5.1_RTC_ALARM.elf 
+   text	   data	    bss	    dec	    hex	filename
+  20456	    104	   2168	  22728	   58c8	5.1_RTC_ALARM.elf
+Finished building: default.size.stdout
+ 
+
+16:58:38 Build Finished. 0 errors, 0 warnings. (took 264ms)
+

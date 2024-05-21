@@ -1,0 +1,10 @@
+17:25:07 **** Incremental Build of configuration Debug for project STM32_Ringbuffer ****
+make -j12 all 
+arm-none-eabi-size  STM32_Ringbuffer.elf 
+   text	   data	    bss	    dec	    hex	filename
+  18040	     76	   7484	  25600	   6400	STM32_Ringbuffer.elf
+Finished building: default.size.stdout
+ 
+
+17:25:08 Build Finished. 0 errors, 0 warnings. (took 530ms)
+

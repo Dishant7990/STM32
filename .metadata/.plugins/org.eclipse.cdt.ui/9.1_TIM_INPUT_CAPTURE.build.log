@@ -1,0 +1,10 @@
+18:12:21 **** Incremental Build of configuration Debug for project 9.1_TIM_INPUT_CAPTURE ****
+make -j12 all 
+arm-none-eabi-size  9.1_TIM_INPUT_CAPTURE.elf 
+   text	   data	    bss	    dec	    hex	filename
+   8916	     12	   1644	  10572	   294c	9.1_TIM_INPUT_CAPTURE.elf
+Finished building: default.size.stdout
+ 
+
+18:12:22 Build Finished. 0 errors, 0 warnings. (took 315ms)
+

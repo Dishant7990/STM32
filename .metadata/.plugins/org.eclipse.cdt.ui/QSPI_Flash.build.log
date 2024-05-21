@@ -1,0 +1,10 @@
+11:10:05 **** Incremental Build of configuration Debug for project QSPI_Flash ****
+make -j12 all 
+arm-none-eabi-size  QSPI_Flash.elf 
+   text	   data	    bss	    dec	    hex	filename
+  24952	    112	   2768	  27832	   6cb8	QSPI_Flash.elf
+Finished building: default.size.stdout
+ 
+
+11:10:05 Build Finished. 0 errors, 0 warnings. (took 270ms)
+

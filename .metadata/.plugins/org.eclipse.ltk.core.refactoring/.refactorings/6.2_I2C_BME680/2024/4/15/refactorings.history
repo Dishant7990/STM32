@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename resource &apos;6.2_I2C_BME680/Drivers/COMPONENT&apos; to &apos;BSP&apos;" description="Rename resource &apos;COMPONENT&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="Drivers/COMPONENT" name="BSP" stamp="1712833594279" updateReferences="true"/>
+</session>
