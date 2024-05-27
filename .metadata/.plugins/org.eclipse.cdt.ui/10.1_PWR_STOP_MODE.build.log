@@ -1,0 +1,10 @@
+17:58:54 **** Incremental Build of configuration Debug for project 10.1_PWR_STOP_MODE ****
+make -j12 all 
+arm-none-eabi-size  10.1_PWR_STOP_MODE.elf 
+   text	   data	    bss	    dec	    hex	filename
+  19088	    104	   2080	  21272	   5318	10.1_PWR_STOP_MODE.elf
+Finished building: default.size.stdout
+ 
+
+17:58:55 Build Finished. 0 errors, 0 warnings. (took 887ms)
+

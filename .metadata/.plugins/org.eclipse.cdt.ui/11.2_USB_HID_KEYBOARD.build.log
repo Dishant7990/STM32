@@ -1,0 +1,10 @@
+12:56:51 **** Incremental Build of configuration Debug for project 11.2_USB_HID_KEYBOARD ****
+make -j12 all 
+arm-none-eabi-size  11.2_USB_HID_KEYBOARD.elf 
+   text	   data	    bss	    dec	    hex	filename
+  33464	    424	   4008	  37896	   9408	11.2_USB_HID_KEYBOARD.elf
+Finished building: default.size.stdout
+ 
+
+12:56:51 Build Finished. 0 errors, 0 warnings. (took 631ms)
+
